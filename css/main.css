@@ -1,3 +1,5 @@
+
+
 body {
   background-color: #fdf6e3;
 }
@@ -54,6 +56,6 @@ ol li:last-child {
   background-color: #586e75;
 }
 
-.types li:nth-child(3rd) {
-  background-color: #d04b16
+.types li:nth-child(3) {
+  background-color: #d04b16;
 }
